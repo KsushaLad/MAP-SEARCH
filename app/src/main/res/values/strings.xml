@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Search-MAP</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_name_1" translatable="false">Google Map</string>
+    <string name="launch_map_picker" translatable="false">LAUNCH MAP LOCATION PICKER ACTIVITY</string>
+    <string name="launch_legacy_map_picker" translatable="false">LAUNCH LEGACY MAP LOCATION ACTIVITY</string>
+    <string name="launch_map_picker_with_pois" translatable="false">LAUNCH MAP WITH POIS</string>
+    <string name="launch_map_picker_with_style" translatable="false">LAUNCH MAP WITH STYLE</string>
+    <string name="lib_version" translatable="false">version 9.1.1</string>
+    <string name="seatch">Поиск</string>
+    <string name="search_hint">serch</string>
+    <string name="network_resource">network</string>
+    <string name="no_search_results">Ничего не найдено</string>
+    <string name="load_location_error">Повторите попытку</string>
+    <string name="no_geocoder_available">Сервис не отвечает</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="unknown_location">Неизвестная локация</string>
+    <string name="formatted_address" translatable="false">%1$s, %2$s</string>
+    <string name="accessibility_my_location_button_description">Coordinates</string>
+    <string name="coordinates">Координаты</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    app:elevation="0dp"
+    tools:ignore="UnusedAttribute">
+
+    <FrameLayout
+        android:id="@+id/search_frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/search_result_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="120dp"
+            android:visibility="gone" />
+
+
+        <LinearLayout
+            android:id="@+id/search_touch_zone"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="top"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="26dp"
+            android:background="@drawable/search_text_background"
+            android:elevation="10dp"
+            android:orientation="horizontal"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            app:elevation="12dp">
+
+            <EditText
+                android:id="@+id/search"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@color/search_background"
+                android:hint="@string/seatch"
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                tools:ignore="Autofill" />
+
+            <ImageView
+                android:id="@+id/clear_search_image"
+                android:layout_width="24dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0"
+                android:contentDescription="@string/search_hint"
+                android:src="@drawable/ic_close"
+                android:visibility="invisible"
+                app:tint="@color/black" />
+        </LinearLayout>
+    </FrameLayout>
+</com.google.android.material.appbar.AppBarLayout>

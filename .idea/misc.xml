@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/address_custom_background.xml" value="0.5462962962962963" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/ic_search.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_address_custom_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_adress_custom_background_legacy.xml" value="0.4777777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_app_button_border.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_bottom_screen_gradient_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_back.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_close.xml" value="0.346875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_gps_lime.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_home_background.xml" value="0.4777777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_maps.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_mic.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_poi.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_satellite.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_satellite_off_legacy.xml" value="0.5601851851851852" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_ic_satellite_on_legacy.xml" value="0.5601851851851852" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_search_text_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_search_text_with_border_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_select_location_button_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_toolbar_custom_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/leku_top_screen_gradient_background.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/search_text_with_border_background.xml" value="0.5462962962962963" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/drawable/top_background.xml" value="0.5462962962962963" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/activity_maps.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/activity_search.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/layout_address.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/layout_coordinates.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/leku_activity_location_picker.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/leku_activity_location_picker_legacy.xml" value="1.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/leku_layout_address.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/leku_layout_coordinates.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/leku_search_list_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/leku_toolbar_search.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/leku_toolbar_search_legacy.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/search_list_item.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/layout/toolbar_search.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/menu/leku_toolbar_menu.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SearchMAP2/app/src/main/res/xml/leku_searchable.xml" value="0.5541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
